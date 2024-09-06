@@ -3,3 +3,10 @@ Git is a version control system
 GitHub is remote repository
 
 hello changes
+git init = to create git folder
+
+git config user.name 'username' = to create new user
+git config user.email 'email' = to create user email
+ git status = to check the status
+git add "filename" = to add new to file
+git commit -m"message"   = message related to changes
