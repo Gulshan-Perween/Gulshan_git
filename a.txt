@@ -10,3 +10,7 @@ git config user.email 'email' = to create user email
  git status = to check the status
 git add "filename" = to add new to file
 git commit -m"message"   = message related to changes
+git remote -v = to check number of the origin 
+git branch =  to check the branch on which we are working
+git checkout -b branchName = to create new branch
+git checkout branchName = to come back to the first branch
