@@ -14,3 +14,4 @@ git remote -v = to check number of the origin
 git branch =  to check the branch on which we are working
 git checkout -b branchName = to create new branch
 git checkout branchName = to come back to the first branch
+hello there!
